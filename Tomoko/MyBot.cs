@@ -36,7 +36,7 @@ namespace TomokoBot
 
             discord.ExecuteAndWait(async () =>
             {
-                await discord.Connect("MjcxNzU5MjcyNDU3NTM1NDg5.C27mZw.dcXLPH1pul-t4TK1QUa4qQr1DdI", TokenType.Bot);
+                await discord.Connect("MjcxNzU5MjcyNDU3NTM1NDg5.XK19Ng.AA_SuxxsZdLAz9vvzFDa2WY7hKU", TokenType.Bot);
             });
         }
         public void Log(object sender, LogMessageEventArgs e)
